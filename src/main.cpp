@@ -55,5 +55,4 @@ void loop() {
     //     Print "No Touch"
 
     // TODO 8:
-    // Add small delay (200–500ms)
-}
+    }
