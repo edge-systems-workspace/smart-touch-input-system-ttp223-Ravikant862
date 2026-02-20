@@ -16,6 +16,6 @@
  int touch_Pin=12;
 
  // TODO 2:
- // Create variable to store touch state
+ // Create varhhiable to store touch state
 int led_Pin=13;
 
