@@ -23,7 +23,7 @@ void setup() {
 
     // TODO 3:
     Serial.begin(9600);
-    // Initialize Serial communication (9600 baud rate)
+    // Initializze Serial communication (9600 baud rate)
 
     // TODO 4:
     // Configure touch pin as INPUT
